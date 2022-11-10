@@ -1,3 +1,9 @@
+# api keys
+keys.js
+
+# private data
+*.geojson
+
 # Logs
 logs
 *.log

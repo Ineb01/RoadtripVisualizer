@@ -1,0 +1,21 @@
+{
+    "view":{
+        "center":[-9194390.6081211921,3402343.346013063],
+        "zoom":7
+    },
+    "trips":[
+        {
+            "color": [0, 153, 255, 1],
+            "width": 5,
+            "files":[
+                "history-2022-11-03.geojson",
+                "history-2022-11-04.geojson",
+                "history-2022-11-05.geojson",
+                "history-2022-11-06.geojson",
+                "history-2022-11-07.geojson",
+                "history-2022-11-08.geojson",
+                "history-2022-11-09.geojson"
+            ]
+        }
+    ]
+}
